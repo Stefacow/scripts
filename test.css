@@ -1,0 +1,296 @@
+#motdrow {
+align: auto;
+margin: auto;
+width: auto;
+opacity: 1;
+}
+#motdwrap {
+//background-image: url("https://i.ibb.co/8jJBj44/jasontransbg3.png");
+//background-image: url("https://i.ibb.co/zmv2jyp/Nylon-American-Flag-closeup-2.png");
+background-image: url("https://i.ibb.co/r2Qf1d9/Mr-Boney.gif");
+//background-color: #000000;
+background-repeat: no-repeat;
+background-position: center bottom;
+background-size: 100%;
+}
+#chatwrap {
+opacity: 1;
+}
+
+body {
+background-image: url("https://i.ibb.co/pKt8r74/web1.jpg");
+//background-image: url("http://nightlark.tripod.com/bkg/blackskulls.gif");
+//background-image: url("https://thumbs.gfycat.com/NarrowMintyHippopotamus-size_restricted.gif");//matrix
+//background-image: url("https://s3.birthmoviesdeath.com/images/made/Scary-Stories-2_1200_1788_81_s.jpg");
+//background-image: url("https://i.pinimg.com/originals/00/92/ee/0092ee7bc39340312771530e9d215512.jpg");
+//background-image: url("https://i.ibb.co/rHNzqTv/1574aa1103b23d302944050901d55c62.gif");
+//background-image: url("https://i.ibb.co/7WWhKs5/0092ee7bc39340312771530e9d215512.jpg");
+//background-image: url("https://www.gchughes.com/images/snow-transparent.gif");
+//background-image: url("https://zokstersomething.files.wordpress.com/2014/05/hit.gif");
+//background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");
+//background-image: url("https://cdn140.picsart.com/290407956037211.png");
+//background-image: url("https://i.ibb.co/hC2xfW9/web1.jpg");
+//background-image: url("https://i.ibb.co/pdn2yz6/1608243607399.gif");
+//background-image: url("http://images6.fanpop.com/image/photos/34300000/The-Exorcist-Face-of-Devil-the-exorcist-34330232-667-500.gif");
+//background-image: url("https://www.ufocasebook.com/show/alien50.jpg");
+//background-image: url("https://i.ibb.co/hc7LSH6/0092ee7bc39340312771530e9d215512.jpg");
+//background-image: url("https://i.ibb.co/cvLVrTS/friday13bg3.png");
+//background-image: url("https://i.ibb.co/DCwCx2T/1339046374707.gif");
+opacity: 015;
+//background-size: 100%;
+background-color: #000000;//#050705;
+color: #ccbbdd;
+//text-shadow: 0 0 25px #aaffcc;//#0077ff;//#8844ff;
+}
+h3,.poll-notify {
+color:#ffaa66!important;
+text-shadow: 0 0 3px #ff0000;
+}
+.username {
+color: #d1c1d3;
+text-shadow: 0 0 0px #000000;
+//color: #ffaa55;//#66ffaa;
+//text-shadow: 0 0 2px #aaffcc;
+}
+ .chat-msg-bashfoal .username, .chat-msg-carly_beth .username, .chat-msg-DarksideFan .username, .chat-msg-dirtysanchez .username, .chat-msg-Dooky .username, .chat-msg-fakecarts .username, .chat-msg-fetoid .username, .chat-msg-GravySaucer .username, .chat-msg-high_praise .username, .chat-msg-Kang_Jangus .username, .chat-msg-MajorMatt .username, .chat-msg-pulugulu .username, .chat-msg-t0eh3dd .username, .chat-msg-Whatdafug .username, .chat-msg-wildgunstomcat .username, .chat-msg-Ivanly .username, .chat-msg-tremp .username, .chat-msg-suwako .username, .chat-msg-patient_mox .username, .chat-msg-KosherBosher .username, .chat-msg-mustafothegreat .username, .chat-msg-ruffleb0t .username, .chat-msg-Monolithpie .username, .chat-msg-Frumples .username  {
+    //background-image: url("https://image.ibb.co/eZsn2c/alien.gif");
+    //background-size: 10%;
+    //background-position: center top;
+    //background-image: linear-gradient(#ff0000,#ffffff 60%,#0000ff);
+    //color: #ff5555 !important;
+    //text-shadow: 0 0 3px #ff0000;
+color:#ffaa66!important;
+text-shadow: 0 0 10px #ffaa66;
+}
+.chat-msg-marlokk .username, marlokkcss  {
+//background-image: linear-gradient(#191525 30%,#292535 30%,#aa2266 90%);
+//background-image: url("https://i.ibb.co/TbMVB16/basedbg.png");
+//background-image: url("https://thumbs.gfycat.com/DishonestTerrificGalapagosdove-max-1mb.gif");
+background-image: url("https://c.tenor.com/wiN--JbMuj8AAAAC/fire.gif");
+//background-image: url("https://i.gifer.com/AJp.gif");
+//background-image: url("https://media3.giphy.com/media/l6JPvw93tlqI7xRPYC/giphy-downsized-large.gif");
+//background-image: url("https://i.gifer.com/1ABb.gif");
+    background-size: 200%;
+    background-position: bottom right;
+color: #220055!important;//#221144!important;
+text-shadow: 0px 0px 2px #ff0000;//#ff7744;
+}
+.chat-msg-The_Moon_Man .username  {
+background-image: url("https://cliply.co/wp-content/uploads/2021/07/402107790_STATIC_NOISE_400.gif");
+background-size: 200%;
+background-position: center center;
+text-shadow: 0 0 2px #ffffff;
+color: #ffffff!important;
+}
+.chat-msg-yupa .username {
+color: #8844ee!important;
+text-shadow: 0 0 5px #bb44bb;
+}
+.chat-msg-Bananarama3412 .username  {
+background-image: url("https://i.ibb.co/ftdvsbT/redpulse.gif");
+background-size: 100%;
+background-position: center center;
+color: #221144!important;
+text-shadow: 0 0 5px #ff0000;
+}
+.chat-msg-GhostsAndGoblins .username  {
+color: #dd4466!important;
+text-shadow: 0 0 6px #ff0000;
+}
+.chat-msg-i_cant_read .username  {
+color: #1CE3CF!important;
+text-shadow: 0 0 4px #1CE3CF;
+}
+.chat-msg-Fartbongo .username {
+color: #ffff00!important;
+text-shadow: 0 0 10px #ffff00;
+}
+.chat-msg-GreasyJungle .username  {
+color: #32CD32!important;
+text-shadow: 0 0 8px #00ff00;
+}
+.chat-msg-LordSuperchrome .username {
+color: #32CD32!important;
+text-shadow: 0 0 8px #00ff00;
+}
+.chat-msg-NiggerDuck .username  {
+//background-image: url("https://i.ibb.co/5M8p9Kj/pumpkinbg.png");
+//    background-size: 100% 100%;
+//color: #000000!important;
+//text-shadow: 0 0 4px #ffff00;
+background-image: url("https://i.gifer.com/AJp.gif");
+    background-size: 250%;
+    background-position: center center;
+color: #221144!important;
+text-shadow: 0px 0px 4px #99ff44;
+}
+.chat-msg-AwfulWaffle  .username  {
+color: #32CD32!important;
+text-shadow: 0 0 8px #00ff00;
+}
+.chat-msg-TurboKikeNigger .username {
+background-image: url("https://i.ibb.co/HC7VMs8/swas2.png");
+background-size: 14%;
+background-position: left top;
+color: #dd00cc!important;
+text-shadow: 0 0 1px #990099;
+}
+.chat-msg-OftenWrong .username {
+color: #FFB612!important;
+background-color: #0F204B!important;
+}
+.chat-msg-lurker68 .username {
+color: #4e8f32!important;
+text-shadow: 0 0 12px #00ff00;
+}
+.chat-msg-SlonkedMarvOffGoop .username {
+color: #1166ff!important;
+text-shadow: 0 0 6px #008822;
+}
+
+.chat-msg-snugbot {
+color:#9988aa!important;
+
+}
+.chat-msg-snugbot .username {
+color:#aaffcc!important;
+text-shadow: 0 0 0px #000000;
+}
+.userlist_owner {
+color: #dd4466!important;
+text-shadow: 0 0 10px #ffaa66;
+}
+.userlist_op {
+font-weight: bold;
+color:#ffaa66!important;
+text-shadow: 0 0 10px #ffaa66;
+//color: cceedd!important;
+//color: aaeebb!important;
+}
+.userlist_item {
+font-weight: bold;
+color:#77ccff!important;
+text-shadow: 0 0 1px #00ff00;
+}
+.userlist_guest {
+color: #bb99bb!important;
+text-shadow: 0 0 3px #000000;
+}
+.glyphicon {
+color: #ccbbdd!important//#ffaa55!important;;
+}
+.glyphicon-time {
+color: #ccbbdd!important;
+}
+#togglemotd {
+background-color:#aaffcc!important;
+}
+.glyphicon-minus {
+//color:#000000!important;
+//-webkit-filter:drop-shadow(0px 0px 2px #aaffcc);
+//filter:drop-shadow(0px 0px 2px #aaffcc)
+}
+.btn,.form-control {
+color: #bbaabb;
+}
+.btn {
+font-weight:bold;
+}
+.btn-default {
+//color:#ffaa55!important;
+}
+.label-success {
+color: #000000;
+//background:#ffaa55!important;
+}
+.modal-header,.modal-footer,.modal-body {
+background-color:#292535;
+}
+#userlist,#messagebuffer,.formcontrol,#chatheader,#plmeta,#chatline,.well,.queue_sortable,.container,.navbar-collapse,#nav-collapsible,#queue {
+background-color: #000000;//#191525;
+}
+li,#chatline,#mediaurl,#footer {
+background-color:#000000!important;//#191525!important;
+}
+.btn-default,.btn-primary {
+//color:#aaffcc!important;
+color:#ffaa55!important;
+background-image: linear-gradient(#393545,#292535 60%,#191525);
+}
+#userlist,#messagebuffer,.formcontrol,#chatheader,#plmeta,#chatline,.well,.queue_sortable,.navbar-collapse,.input-group {
+box-shadow:0px 0px 10px #ff6622;//#66ffaa;//#aaffcc;
+}
+#userlist,#messagebuffer,#chatheader,#videowrap-header,.form-control,#plmeta {
+border: 0px solid #ffffff;
+}
+.queue_entry {
+border: 1px solid #aaffcc;
+border-left-width: 0;
+border-bottom-width: 0;
+border-right-width: 0;
+}
+
+
+#videowrap {
+box-shadow:0px 0px 10px #ff6622;
+background-color: rgba(255, 136, 68, 0.3);
+//background-color: rgba(77, 255, 180, 0.39);
+//box-shadow:0px 0px 10px #66ffaa; //#ff6622;
+}
+
+a,.navbar-brand,#logout,#welcome,li,.option,#chatheader,#videowrap-header {
+color: #ffaa55!important;//#aaffcc!important;
+//color: #66ffaa!important;
+}
+
+.queue_active {
+#text-shadow: 0 0 6px #000000;
+font-weight:bold;
+}
+
+
+
+div {
+    //cursor:url(https://i.ibb.co/cY7qMDR/OxmlypR.png),auto;
+    //cursor:url(https://i.ibb.co/bLWtv5k/skull10.gif),auto;
+    //cursor:url(https://image.ibb.co/izdCGz/hweencurs.png),auto;
+    //cursor:url(https://i.ibb.co/bLWtv5k/skull10.gif),auto;
+    //cursor:url(https://i.ibb.co/pLDyB27/mask-area-51-alien-adult-mask.png),auto;
+    //cursor:url(https://i.ibb.co/DCKsR16/UFO-2235-Lights-Off.png),auto;
+}
+.btn,.form-control,.userlist_item {
+    //cursor:url(https://i.ibb.co/rtzX0jg/3a6J2i5.png),auto;
+    //cursor:url(https://i.ibb.co/bLWtv5k/skull10.gif),auto;
+    //cursor:url(https://i.ibb.co/pLDyB27/mask-area-51-alien-adult-mask.png),auto;
+    //cursor:url(https://i.ibb.co/DCKsR16/UFO-2235-Lights-Off.png),auto;
+}
+#snugObj {
+//-webkit-filter:drop-shadow(0px 0px 15px #aaffcc);
+//filter:drop-shadow(0px 0px 15px #aaffcc)
+//-webkit-filter:drop-shadow(0px 0px 15px #ddbbff);
+//filter:drop-shadow(0px 0px 15px #ddbbff);
+-webkit-filter:drop-shadow(0px 0px 15px #ffaa55);
+filter:drop-shadow(0px 0px 15px #ffaa55);
+//-webkit-filter:drop-shadow(0px 0px 15px #ff3355);
+//filter:drop-shadow(0px 0px 15px #ff3355);
+}
+#snugObj2 {
+//-webkit-filter:drop-shadow(3px 3px 5px #ff4455);
+//filter:drop-shadow(3px 3px 5px #ff4455);
+//-webkit-filter:drop-shadow(3px 3px 5px #ddbbff);
+//filter:drop-shadow(3px 3px 5px #ddbbff);
+-webkit-filter:drop-shadow(3px 3px 4px #ffaa55);
+filter:drop-shadow(3px 3px 4px #ffaa55);
+}
+
+
+
+.greentext {
+color: #00cc44!important;
+}
+.nick-hover{
+background-color: #000000;
+}
+.channel-emote {
+  max-height: 100px;
+  max-width…
